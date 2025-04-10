@@ -30,7 +30,7 @@
 
 ---
 
-🛠 Tools & Technologies
+#### 🛠 Tools & Technologies
 
 - Languages: Python, R, SQL
 - ETL Tools: IBM Infosphere DataStage
@@ -41,12 +41,12 @@
 
 ---
 
-📚 Currently Learning
+#### 📚 Currently Learning
 - Tableau for advanced dashboarding and data storytelling — Udemy course 85% complete
 
 ---
 
-📫 Connect with Me
+#### 📫 Connect with Me
 
 - 📧 koppularishitha@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/rishitha-koppula-87b7b7201)
