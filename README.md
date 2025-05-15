@@ -1,56 +1,79 @@
-#  Hi, I'm Rishitha Koppula
+# 👩‍💻 Rishitha Koppula
 
 🎓 Graduate student in Data Science at SUNY Albany  
 💼 Former Associate Software Engineer at Optum Global Solutions  
-📊 Passionate about building scalable data pipelines, predictive models, and interactive dashboards  
+📊 Passionate about building scalable data pipelines, predictive models, and interactive dashboards
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
- 🔁 2 years experience in ETL development and data engineering at Optum using IBM Infosphere DataStage, Oracle DB, and CI/CD tools like Jenkins and Git.
- 📈 Strong understanding of both development and testing lifecycles in Agile environments.
- 🧪 Experience with R, Python, SQL, and Excel for statistical analysis and ad-hoc reporting.
- 📊 Currently learning Tableau (course in progress on Udemy) for data visualization and business intelligence.
-
----
-
-### 🚀 Projects
-
-#### 🧠 Federated Learning – Privacy-Preserving Machine Learning with FedAvg
-- Developed a decentralized ML model simulating client-side training with non-IID data using Python.
-- Leveraged `NumPy` and `Pandas` for local model updates and data handling.
-- Visualized client performance metrics using `Matplotlib`, revealing convergence patterns and training variations.
-- Presented results during a poster session — [Project Repo 🔗](https://github.com/RishithaKoppula/federated-learning)
-
-#### 🩺 Predicting Lung Cancer Risk from Habits and Symptoms
-- Built classification models in R (Random Forest, Logistic Regression) to identify high-risk individuals.
-- Validated and cleaned clinical data for modeling.
-- Documented results and visualizations in Excel and presented key findings via PowerPoint.
+🔁 2 years of experience in ETL development and data engineering at Optum using IBM InfoSphere DataStage, Oracle DB, and CI/CD tools like Jenkins and Git  
+🧪 Hands-on expertise with Python, SQL, R, and Excel for data analysis, statistical modeling, and automation  
+📈 Experienced in Agile teams, contributing to sprints, documentation, and backlog refinement  
+📊 Recently completed a Tableau course for advanced data storytelling and dashboarding (Udemy – April 2025)
 
 ---
 
-#### 🛠 Tools & Technologies
+## 🚀 Projects
 
-- Languages: Python, R, SQL
-- ETL Tools: IBM Infosphere DataStage
-- Databases: Oracle, Snowflake
-- CI/CD: Jenkins, Git, GitHub
-- Visualization: Tableau , Excel, Matplotlib
-- Other: Agile, Confluence, Scrum methodology
-
----
-
-#### 📚 Currently Learning
-- Tableau for advanced dashboarding and data storytelling — Udemy course 85% complete
+### 🧠 Federated Learning – Privacy-Preserving Machine Learning with FedAvg  
+*Conducted under Prof. Halyun Jeong, Department of Mathematics and Statistics, University at Albany*  
+- Simulated decentralized model training with non-IID client data using Python  
+- Used NumPy and Pandas to compute local model updates and handle synthetic data  
+- Visualized performance metrics across clients using Matplotlib  
+- [🔗 GitHub Repository](https://github.com/RishithaKoppula/FederatedLearningpROJECT)
 
 ---
 
-#### 📫 Connect with Me
+### 🩺 Predicting Lung Cancer Risk from Habits and Symptoms  
+- Built classification models in R (Random Forest, Logistic Regression)  
+- Cleaned and validated real-world clinical datasets  
+- Visualized key patterns and presented insights using Excel and PowerPoint
 
-- 📧 koppularishitha@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/rishitha-koppula-87b7b7201)
-- 🌐 GitHub: [github.com/RishithaKoppula](https://github.com/RishithaKoppula)
+---
 
+### 📊 WeWashUSleep – Tableau ROI Dashboard  
+- Designed a dynamic Tableau dashboard to analyze marketing ROI across 10 cities  
+- Visualized KPIs like ROMI, conversion rates, and average revenue per customer  
+- Published on Tableau Public for live interaction and storytelling  
+- [🔗 View Dashboard](https://public.tableau.com/app/profile/rishitha.koppula/viz/WeWashUSleepSalesMarketingROIAnalysis/Dashboard1)
+
+---
+
+## 🛠 Tools & Technologies
+
+**Languages:** Python, R, SQL  
+**ETL Tools:** IBM InfoSphere DataStage  
+**Databases:** Oracle, Snowflake  
+**CI/CD:** Jenkins, Git, GitHub  
+**Visualization:** Tableau, Excel, Matplotlib  
+**Other:** Agile, Confluence, Scrum methodology
+
+---
+
+## 📜 Certifications
+
+### Tableau A–Z: Hands-On Tableau Training for Data Science  
+*Issued by Udemy on April 16, 2025 – 8.5 hours of content*
+
+![Tableau Certificate](./certificates/Tableau_Certificate.png)
+
+---
+
+## 📚 Currently Learning
+
+- Tableau for advanced dashboards and data storytelling  
+- AWS (self-paced fundamentals + projects in progress)
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: koppularishitha@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/rishitha-koppula-87b7b7201)  
+🌐 [GitHub](https://github.com/RishithaKoppula)
+
+---
 
 Thanks for stopping by! Feel free to check out my projects or reach out for collaboration.
