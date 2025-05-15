@@ -57,7 +57,7 @@
 ### Tableau A–Z: Hands-On Tableau Training for Data Science  
 *Issued by Udemy on April 16, 2025 – 8.5 hours of content*
 
-![Tableau Certificate](./certificates/Tableau_Certificate.png)
+![Tableau Certificate](https://github.com/RishithaKoppula/Myself/blob/main/Tableau_Certificate.pdf)
 
 ---
 
