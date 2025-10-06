@@ -59,6 +59,12 @@
 
 ![Tableau Certificate](https://github.com/RishithaKoppula/Myself/blob/main/Tableau_Certificate.pdf)
 
+### Top 5 % AI Engineer – Pro5 (Oct 2025)
+- **Issuer:** Pro5 – AI Skill Validation Platform  
+- **Credential ID:** 9007040003541000  
+- **Description:** Recognized among the top 5 % in the AI Engineer assessment evaluating ML modeling, Python, and system design.
+  https://github.com/RishithaKoppula/Myself/blob/main/Pro5.pdf
+
 ---
 
 ## 📚 Currently Learning
